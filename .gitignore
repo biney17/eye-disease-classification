@@ -1,0 +1,20 @@
+# Environnements
+.env
+venv/
+.venv/
+__pycache__/
+
+# Modèles entraînés
+*.h5
+*.ckpt
+*.pt
+
+# Datasets (souvent trop lourds)
+dataset/
+dataset_split/
+
+# Notebooks temporaires
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
